@@ -17,7 +17,8 @@ This is a simple QR code page.
 
 ### Screenshot
 
-![lf,elfel](images/screenshot(221).png)
+![Screenshot (221)](https://user-images.githubusercontent.com/105369627/175828259-31035f7d-99fa-4873-a472-e47c679f46a7.png)
+
 
 ### Links
 
