@@ -36,7 +36,7 @@ This is a simple QR code page.
 
 This is my first challenge, i learned a lot, while working on this challenge, i learned how to center divs, how to set background color. i enjoyed lot while making this project.
 
-### Continued development
+### Personal development
 
 This is only start, i am not going to stop, i'll do everything to improve myself.
 
